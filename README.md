@@ -1,4 +1,4 @@
-## Website
+## Website loger and amazing project
 
 Warzone's website is built with React. This ties in with Warzone's [TGM](https://github.com/WarzoneMC/Warzone) project to display information like player leaderboards, individual player stats, as well as detailed match info.
 
@@ -17,6 +17,7 @@ Warzone's website is built with React. This ties in with Warzone's [TGM](https:/
 	"API_BASE": "YOUR_API_URL"
 }
 ```
+
 
 4. Start the development server with `yarn start` (or `npm run start`). You can also build the project with `yarn build` (or `npm run build`).
 
